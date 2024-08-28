@@ -1,8 +1,6 @@
-### Hi there 👋
+<h1 align="center">hey!👋</h1>
+<h3 align="center"></h3>
 
-I'm Arthur. I'm anything but a developer; I just enjoy creating things. I used to go crazy about React and 'em. Nowadays I mostly write Next.js, TypeScript, Node.js and a teeny tiny bit of Go :/.
-I've written [a few articles](https://lasagna.hashnode.dev/) on Hashnode and I post random tweets when I'm bored.
-
-Currently, I'm building [my portfolio](https://ebarthur.vercel.app). If you have any crazy ideas that you want people aboard, just [write me an email](mailto:arthurebenezer@aol.com) or DM on [X](https://x.com/StatmanAartt).
-
-
+- i use a lot of ts, go, c and python
+- i'm currently learning ml
+- check out my [portfolio](https://ebarthur.vercel.app)
