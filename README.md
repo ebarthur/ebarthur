@@ -3,4 +3,4 @@
 
 - i use a lot of ts, go, c and python
 - i'm currently learning ml
-- check out my [portfolio](https://ebarthur.vercel.app)
+- check out my [portfolio](https://ebartur.com)
