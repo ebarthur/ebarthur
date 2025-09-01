@@ -1,6 +1,6 @@
-<h1 align="center">hey!👋</h1>
-<h3 align="center"></h3>
+<h1 align="center">hey!👋🏾</h1>
+<h3 align="center"></h3>   
 
-- i use a lot of ts, go, c and python
+- i use a lot of ts and go
 - i'm currently learning ml
-- check out my [portfolio](https://ebartur.com)
+- check out my [homepage](https://ebarthur.github.io/)
